@@ -1,0 +1,41 @@
+*{font-family: 'Roboto', sans-serif;}
+.top{
+    background: linear-gradient(90deg, rgb(205, 255, 216) 0%, rgb(148, 185, 255) 100%);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    height: 40vh;
+   text-align: center;
+}
+.topic{
+    color: beige;
+}
+.intro{ 
+    position: relative;
+    top:100px;
+    color: #004AAD;
+    font-family: 'IBM Plex Serif', serif;
+    font-family: 'Instrument Serif', serif;
+    font-size: 3rem;
+}
+img{
+    border-radius: 30%;
+}
+.bot{
+    background: linear-gradient(90deg, rgb(205, 255, 216) 0%, rgb(148, 185, 255) 100%);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+   text-align: center;
+   
+}
+.edu{
+    position: relative;
+    left: 10px;
+}
+footer>p{
+    color: white;font-weight: bold;
+}
+div>h3{
+    color:rgb(148, 185, 255) ;
+}
+.hel{   color:rgb(148, 185, 255) ;}
+li>a{color: white; font-weight: bold;}
